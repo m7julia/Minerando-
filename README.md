@@ -22,5 +22,25 @@ Nesta aula, aprendemos a utilizar ferramentas essenciais para o desenvolvimento 
 
 ---
 
-## 📂 Estrutura do Projeto  
+## 🚀 Como Rodar o Projeto  
 
+1️⃣ **Clone o repositório:**  
+
+git clone git@github.com:m7julia/Minerando-.git
+cd Minerando-
+
+2️⃣ Instale as dependências:
+
+npm install
+
+3️⃣ Inicie o Ganache:
+
+ganache-cli
+
+4️⃣ Compile e migre os contratos:
+
+truffle compile
+truffle migrate
+
+
+🚀 Happy Coding! 🎉
